@@ -5,7 +5,7 @@ function PodChallenge() {
         <div>
             <h1>Pod Challenge</h1>
             <hr></hr>
-            <h2>GOAL: Create a fully functioning react app with state and props using someones javascript project.</h2>
+            <h2>GOAL: Create a fully functioning react app with state and props using someones javascript project. Practicing creating components in react and implementing both state and props into the components. Start by running `yarn start`</h2>
             <hr></hr>
             <h3>Suggested Steps:</h3>
             <ol>
