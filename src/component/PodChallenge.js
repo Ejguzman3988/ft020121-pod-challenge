@@ -13,6 +13,7 @@ function PodChallenge() {
                 <br/><input />
                 <li>Whose Backend are you going to use?</li>
                 GITHUB BACKEND <br/><input />
+                <li>Or if you can't decide let me know!!! We can work on using json-server instead. (This will not use a rails backend but it will be similar)</li>
                 <li>Create Three Components:</li>
                 <ol>
                     <li>
@@ -27,13 +28,11 @@ function PodChallenge() {
                         <br/><input />
                     </li>
                 </ol>
-
                 <li> Set Up your state: Which components should <i>STORE</i> state?</li>
                 <li> Set Up proper LifeCycle Methods to Fetch Data</li>
                 <li> Send down props to appropriate components </li>
                 <li> Make sure you can view the Individual Singular Components:</li>
                 <li> Switch Between Pages using NavBar</li>
-
             </ol>
         </div>
     )

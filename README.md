@@ -9,6 +9,7 @@
         <br/><input />
         <li>Whose Backend are you going to use?</li>
         GITHUB BACKEND <br/><input />
+        <li>Or if you can't decide let me know!!! We can work on using json-server instead. (This will not use a rails backend but it will be similar)</li>
         <li>Create Three Components:</li>
         <ol>
             <li>
